@@ -103,7 +103,7 @@ I will check those patterns myself before including them in my final report.
 
 ## Main Risk
 
-One risk is that the model learns simple words like **“NO”** or **“YES”** instead of understanding the full comment.
+One risk is that the model learns simple words like **“NOR”** or **“YOR”** instead of understanding the full comment.(not over-reacting, yes over-reacting)
 
 I will check whether the model still performs well when those obvious words are not present.
 
