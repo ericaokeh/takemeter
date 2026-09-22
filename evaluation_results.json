@@ -1,0 +1,11 @@
+{
+  "baseline_accuracy": NaN,
+  "finetuned_accuracy": 0.6,
+  "improvement": NaN,
+  "test_set_size": 30,
+  "label_map": {
+    "SUPPORTS_REACTION": 0,
+    "CRITIQUES_REACTION": 1
+  },
+  "model": "distilbert-base-uncased"
+}
