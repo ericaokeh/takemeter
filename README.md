@@ -905,7 +905,7 @@ Future improvements would focus on expanding the training dataset, increasing re
 
 # Demo
 
-**Demo video:** `[ADD VIDEO LINK]`
+**Demo video:** [`https://drive.google.com/drive/u/0/my-drive')
 
 The demo shows:
 
